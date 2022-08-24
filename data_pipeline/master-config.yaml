@@ -1,0 +1,6 @@
+WalmartSales:
+  CALENDAR_DATA: D:\SoftwareDevelopment\walmart_analysis\Data\calendar.csv
+  SALES_PRICE_DATA: D:\SoftwareDevelopment\walmart_analysis\Data\sell_prices.csv
+  SALES_DETAILS_DATA: D:\SoftwareDevelopment\walmart_analysis\Data\sales_train_validation.csv
+  TARGET_TOP5_STORES: D:\SoftwareDevelopment\walmart_analysis\Data\output\top5-stores
+  TARGET_TOP2_PRODS_STORES: D:\SoftwareDevelopment\walmart_analysis\Data\output\top2-prods-per-store
